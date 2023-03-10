@@ -1,1 +1,1 @@
-print("Hello World")
+print("name : 조미서, 학번 : 202203298, 학과: 컴퓨터공학")
