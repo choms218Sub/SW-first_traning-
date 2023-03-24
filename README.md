@@ -1,2 +1,2 @@
 # SW-first_traning-
-SW 첫 실습
+SW 첫 실습와우
